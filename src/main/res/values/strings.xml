@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">LAB12</string>
+    <string name="login_layout">Diego valdez</string>
+    <string name="credencialesAceptadas">val21328@uvg.edu.gt</string>
+    <string name="correoAceptado_loginFragment">val21328@uvg.edu.gt</string>
+    <string name="textBt_mantenerSesion_homeLayout">Mantener sesión abierta</string>
+    <string name="textBt_cerrarSesion_homeLayout">cerrar sesión</string>
+    <string name="textBt_default_homeLayout">default</string>
+    <string name="textBt_succes_homeLayout">succes</string>
+    <string name="textBt_failure_homeLayout">failure</string>
+    <string name="textBt_empty_homeLayout">empty</string>
+    <string name="textCorreo_inputCorreo_loginFragment">Correo</string>
+    <string name="textContrasenia_loginFragment">Contraseña</string>
+    <string name="textBtn_iniciarSesion_loginFragment">iniciar sesión</string>
+    <string name="laboratorio_12">Laboratorio 12</string>
+
+
+</resources>
